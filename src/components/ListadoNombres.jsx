@@ -52,7 +52,10 @@ const ListadoNombres = () => {
 
   return (
     <div>
-      <h2>Applicacion De CRUD Basico</h2>
+      <div className="container">
+        <h2>Applicacion De CRUD Basico</h2>
+      </div>
+      
       <div className="row">
         <div className="col">
           <h2>Listado De Nombres</h2>
